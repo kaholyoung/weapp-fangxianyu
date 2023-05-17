@@ -1,0 +1,2 @@
+jwt:
+  pub-key-file-name: RSA.pub
